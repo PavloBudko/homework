@@ -1,0 +1,17 @@
+
+
+body {
+    background-color: rgb(166, 202, 7);
+    color: rgb(0, 0, 0);
+    border: 5px;
+    padding: 20px;    
+}
+
+body li {
+    line-height: 2;
+}
+
+body img {
+    width: 100%;
+
+}
